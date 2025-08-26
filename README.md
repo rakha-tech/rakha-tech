@@ -1,8 +1,6 @@
 ![Muhammad Rakha](img/github-header-image.png)
 
-### About Me
-
-#### Never Ending Improvement
+### Never Ending Improvement
 
 ##### 🌐 Socials:
 
