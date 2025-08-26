@@ -2,7 +2,7 @@
 
 ### About Me
 
-#### I learn fullstack developer since 2022
+#### Never Ending Improvement
 
 ##### 🌐 Socials:
 
