@@ -1,4 +1,4 @@
-![Muhammad Rakha.](img/github-header-image.png)
+![Muhammad Rakha](img/github-header-image.png)
 
 ## Never Ending Improvement
 
