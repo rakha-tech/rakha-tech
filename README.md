@@ -10,11 +10,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,nodejs,java,firebase,figma,discordjs&perline=5)](https://skillicons.dev)
 
-### 📊 GitHub Stats:
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=rakha-tech&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakha-tech&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
-</div>
-
 <img src="https://raw.githubusercontent.com/rakha-tech/rakha-tech/output/snake.svg" alt="Snake animation" />
