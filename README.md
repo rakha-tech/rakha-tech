@@ -10,4 +10,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,git,nodejs,java,firebase,figma,discordjs&perline=5)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/rakha-tech/rakha-tech/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rakha-tech/rakha-tech/output/snake.svg" alt="Snake animatiosn" />
